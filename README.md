@@ -7,3 +7,7 @@ Welcome to the Planet Simulation Project! This project aims to create a realisti
 ## Features
 
 - **Realistic Physics:** The simulation incorporates accurate gravitational physics to model the movements of planets around stars.
+
+## References
+
+- **Planet Orbit:** A great interpretation of sun as the center of solar system and planets orbiting in circle. Calculation is based on scientific formula of Isaac Newton, the force of gravitational attraction between two objects. [https://fiftyexamples.readthedocs.io/en/latest/gravity.html](https://fiftyexamples.readthedocs.io/en/latest/gravity.html)
