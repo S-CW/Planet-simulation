@@ -117,6 +117,8 @@ def main():
     venus = Planet(0.723 * Planet.AU, 0, 14, WHITE, 4.8685 * 10**24)
     venus.y_vel = -35.02 * 1000
 
+    # Add new planets here on next line
+
     planets = [sun, earth, mars, mercury, venus]
 
     while run:
